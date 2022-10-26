@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2976.5 299">
+<defs>
+  <g id="robot-codepen"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z" /></g>
+  <g id="perfil-codepen"> ----->Aquí va todo el código de perfil-codepen </g>
+  <g id="github"> ----->Aquí va todo el código de github </g>
+  <g id="visible"> ----->Aquí va todo el código de visible </g>
+  <g id="filtros"> ----->Aquí va todo el código de filtros </g>
+  </defs>
+  <use href="#robot-codepen" x="100" fill="blue" width="1000" />
+</svg>
